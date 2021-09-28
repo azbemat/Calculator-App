@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="helloStatement">Hello World!</string>
+    <string name="s_btn_plus">+</string>
+    <string name="s_btn_1">1</string>
+    <string name="s_btn_2">2</string>
+    <string name="s_btn_3">3</string>
+    <string name="s_btn_4">4</string>
+    <string name="s_btn_5">5</string>
+    <string name="s_btn_6">6</string>
+    <string name="s_btn_minus">-</string>
+    <string name="s_btn_7">7</string>
+    <string name="s_btn_8">8</string>
+    <string name="s_btn_9">9</string>
+    <string name="s_btn_multiply">*</string>
+    <string name="s_btn_clear">c</string>
+    <string name="s_btn_0">0</string>
+    <string name="s_btn_equal">=</string>
+    <string name="s_btn_divide">/</string>
+    <string name="s_btn_text_Advance">ADVANCE - WITH HISTORY</string>
+    <string name="s_btn_text_Standard">STANDARD - NO HISTORY</string>
+</resources>

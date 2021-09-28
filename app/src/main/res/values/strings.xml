@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Assignment 1</string>
-    <string name="helloStatement">Hello World!</string>
     <string name="s_btn_plus">+</string>
     <string name="s_btn_1">1</string>
     <string name="s_btn_2">2</string>
